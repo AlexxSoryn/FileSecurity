@@ -1,8 +1,0 @@
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.Form1.resources
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.Properties.Resources.resources
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.csproj.GenerateResource.Cache
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\bin\Release\FileSecurity.exe
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\bin\Release\FileSecurity.pdb
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.exe
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.pdb
-D:\Project_Terror_v2\filesecurity\FileSecurity\FileSecurity\obj\x86\Release\FileSecurity.csprojResolveAssemblyReference.cache
